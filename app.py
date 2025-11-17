@@ -12,6 +12,9 @@ option = st.selectbox(
     index=None,
     placeholder="Select contact method..."
 )
+st.write("""
+Version de Pierre"""
+)
 with st.sidebar:
 
     option = st.selectbox(
