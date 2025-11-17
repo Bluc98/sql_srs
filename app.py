@@ -5,6 +5,7 @@ st.write("""
 #SQL SRS
 Spaced Repetition System SQL practice"""
          )
+st.write("La question de la collegue")
 option = st.selectbox(
     "What would you liked to review ?",
     ('GroupBy','Window Functions','Having'),
