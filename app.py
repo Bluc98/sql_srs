@@ -11,7 +11,10 @@ Spaced Repetition System SQL practice"""
 
 st.write(
     """
-Version de Pierre"""
+Version de Pierre
+
+
+  """
 )
 with st.sidebar:
 
